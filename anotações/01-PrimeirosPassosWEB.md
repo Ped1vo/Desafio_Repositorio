@@ -1,7 +1,7 @@
 # Primeiros passos para desenvolvimento web
 ## O que é internet
-- Introdução
-- Termos-chave
+### Introdução
+### Termos-chave
 * backup
 * keylogger
 * phising
@@ -10,6 +10,6 @@
 * firewall
 * IP
 * fake news
-- Internet atualmente
+### Internet atualmente
 * 134 milhões de brasileiros tem acesso à internet
 * apenas 53% são da área rural
